@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Principal
+comment0.text=\ \n\ A\ classe\ principal\ \u00E9\ onde\ fica\ o\ m\u00E9todo\ main\ e\ o\ while\ loop\ para\ que\ o\ programa\ funcione.\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ M\u00E9todo\ main\:\ cria\ um\ novo\ objeto\ (tamagotchi),\ determina\ as\ vari\u00E1veis\ e\ \n\ possui\ um\ while\ loop\ que\ determina\ se\ o\ Tamagotchi\ morre\ ou\ continua\ vivo,\n\ imprime\ o\ estado\ do\ Tamagotchi\ e\ chama\ os\ m\u00E9todos\:\ SentirSono,\ SentirFome\ e\ \n\ FicarEntediado.\n
+numComments=2
